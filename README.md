@@ -8,7 +8,7 @@ stack旨在为中国开发者提供通用的分布式服务微服务开发库（
 
 ## 开发手册
 
-[开发文档](https://stacklabs.cn/docs/stack/introduce-cn)
+[开发文档](https://stacklabs.cn/docs/stack-rpc/introduce-cn)
 
 [示例](https://github.com/stack-labs/stack/tree/master/examples)
 
